@@ -4,6 +4,10 @@ Servidor Local o qual se responsabilizará pelo controle de tráfego de dados en
 
 ## Links de apoio.
 
+### GIT.
+Vale a pena ler.
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
 ### SERVIDOR LOCAL.
 
 http://webdevacademy.com.br/tutoriais/instalar-configurar-servidor-local/
